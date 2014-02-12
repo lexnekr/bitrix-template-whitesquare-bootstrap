@@ -1,0 +1,43 @@
+body {
+    border-top: 5px solid #7e7e7e;
+    background-image: url(../images/bg.png);
+}
+
+.jumbotron {
+            border-radius: 0;
+              	padding: 0;
+            margin: 0;
+font-size: 18px;
+font-weight: 200;
+background-color: #29c5e6;
+box-sizing: border-box;
+color: #ffffff;
+line-height: 2.1428571435;
+display: block;
+box-sizing: border-box;
+font-family: Tahoma, sans-serif;
+
+            blockquote {
+                border-left: none;
+
+                p {
+                    font: 300 italic 33px @brand-font;
+                    text-transform: uppercase;
+                    margin-bottom: 0;
+                    color: #ffffff;
+                }
+
+                small {
+                    display: block;
+                    text-align: right;
+                    color: #1D8EA6;
+                    color: #1D8EA6;
+                    font: 300 20px @brand-font;
+
+                    &:before {
+                        content: '';
+                    }
+                }
+            }
+        }
+

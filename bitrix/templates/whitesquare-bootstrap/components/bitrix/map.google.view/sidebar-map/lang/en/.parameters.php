@@ -1,0 +1,1 @@
+<?$MESS ['SIDEBAR_MAP_NAME'] = "Sidebar Map Name";?>

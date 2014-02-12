@@ -1,0 +1,1 @@
+<a href="/"><img src="<?=SITE_TEMPLATE_PATH?>/images/logo.png" alt="Whitesquare logo"></a>

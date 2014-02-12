@@ -1,0 +1,3 @@
+<?
+$MESS['about'] = "ABOUT page";
+?>
