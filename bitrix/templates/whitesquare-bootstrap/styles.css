@@ -33,10 +33,6 @@ font-family: Tahoma, sans-serif;
                     color: #1D8EA6;
                     color: #1D8EA6;
                     font: 300 20px @brand-font;
-
-                    &:before {
-                        content: '';
-                    }
                 }
             }
         }
