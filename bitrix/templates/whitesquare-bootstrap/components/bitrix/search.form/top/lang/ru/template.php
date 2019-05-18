@@ -1,3 +1,3 @@
 <?
-$MESS ['BSF_T_SEARCH_BUTTON'] = "ÈÑÊÀÒÜ";
+$MESS ['BSF_T_SEARCH_BUTTON'] = "Ð˜Ð¡ÐšÐÐ¢Ð¬";
 ?>
